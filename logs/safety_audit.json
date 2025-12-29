@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": "2025-12-29T12:10:47.342701",
+    "task_id": 1,
+    "task_description": "Clean contaminated milk storage tank immediately",
+    "category": "Hygiene & Safety",
+    "ai_priority": "High",
+    "final_priority": "High",
+    "was_overridden": false,
+    "override_reason": null,
+    "audit_level": "INFO",
+    "critical_keywords": [
+      "contaminated",
+      "immediately"
+    ],
+    "warning_count": 1
+  },
+  {
+    "timestamp": "2025-12-29T12:10:47.347339",
+    "task_id": 2,
+    "task_description": "Label boxes for shipment",
+    "category": "Hygiene & Safety",
+    "ai_priority": "Medium",
+    "final_priority": "High",
+    "was_overridden": true,
+    "override_reason": "Category 'Hygiene & Safety' minimum is High",
+    "audit_level": "WARNING",
+    "critical_keywords": [],
+    "warning_count": 0
+  },
+  {
+    "timestamp": "2025-12-29T12:10:47.351165",
+    "task_id": 3,
+    "task_description": "Mold detected in fermentation tank",
+    "category": "Hygiene & Safety",
+    "ai_priority": "High",
+    "final_priority": "High",
+    "was_overridden": false,
+    "override_reason": null,
+    "audit_level": "INFO",
+    "critical_keywords": [
+      "mold"
+    ],
+    "warning_count": 0
+  },
+  {
+    "timestamp": "2025-12-29T12:10:47.354713",
+    "task_id": 4,
+    "task_description": "Check temperature on production line",
+    "category": "Quality Control",
+    "ai_priority": "High",
+    "final_priority": "High",
+    "was_overridden": false,
+    "override_reason": null,
+    "audit_level": "INFO",
+    "critical_keywords": [
+      "temperature"
+    ],
+    "warning_count": 0
+  },
+  {
+    "timestamp": "2025-12-29T12:10:47.358713",
+    "task_id": 5,
+    "task_description": "Organize packaging materials",
+    "category": "Production",
+    "ai_priority": "Low",
+    "final_priority": "Low",
+    "was_overridden": false,
+    "override_reason": null,
+    "audit_level": "INFO",
+    "critical_keywords": [],
+    "warning_count": 0
+  },
+  {
+    "timestamp": "2025-12-29T12:10:47.361476",
+    "task_id": 6,
+    "task_description": "Allergen cross-contamination risk found",
+    "category": "Hygiene & Safety",
+    "ai_priority": "High",
+    "final_priority": "High",
+    "was_overridden": false,
+    "override_reason": null,
+    "audit_level": "INFO",
+    "critical_keywords": [
+      "allergen"
+    ],
+    "warning_count": 1
+  },
+  {
+    "timestamp": "2025-12-29T12:10:47.364909",
+    "task_id": 7,
+    "task_description": "Replace worn conveyor belt",
+    "category": "Maintenance",
+    "ai_priority": "High",
+    "final_priority": "High",
+    "was_overridden": false,
+    "override_reason": null,
+    "audit_level": "INFO",
+    "critical_keywords": [],
+    "warning_count": 0
+  },
+  {
+    "timestamp": "2025-12-29T12:10:47.367827",
+    "task_id": 8,
+    "task_description": "Emergency - refrigerator shutdown",
+    "category": "Hygiene & Safety",
+    "ai_priority": "High",
+    "final_priority": "High",
+    "was_overridden": false,
+    "override_reason": null,
+    "audit_level": "INFO",
+    "critical_keywords": [
+      "emergency",
+      "refrigerator",
+      "shutdown"
+    ],
+    "warning_count": 0
+  }
+]
